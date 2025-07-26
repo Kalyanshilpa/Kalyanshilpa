@@ -12,7 +12,12 @@
 
 - 👯 I’m looking to collaborate on open-source projects.
   
-- 📫 How to reach me **kalyanshilpa2003@gmail.com**
+  
+- 💡 Passionate about building interactive web applications
+
+- 📫 Reach me at: kalyanshilpa2003@gmail.com
+
+  
 
 
 
