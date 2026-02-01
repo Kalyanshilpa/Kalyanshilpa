@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi There, I'm Shilpa Rani Kalyan!👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+About+Full+Stack+Developer!;&font=Fira%30Code&center=true&width=450&height=50&duration=4000&pause=1000&color=FF69B4" alt="Example Usage - README Typing SVG">
